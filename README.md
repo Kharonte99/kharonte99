@@ -2,9 +2,11 @@
 
 ## ¿Quién soy? 👨‍💻
 
-Me gusta la seguridad informática y esas cosas, el GitHub será principalmente para subir mis proyectos de todo ámbito relacionado con la informática y compartir tanto teoría como práctica con el que la quiera. tambien subire alguna herramienta que otra que sea util.✌️
+Me gusta la  informática y esas cosas, el GitHub será principalmente para subir mis proyectos de todo ámbito relacionado con la informática y compartir tanto teoría como práctica con el que la quiera. tambien subire alguna herramienta que otra que sea util.✌️
 
-Poco a poco iré complementando esto con más cosas, de momento que tengan buen día.
+Poco a poco iré complementando esto con más cosas.
+
+A hacer cosas.
 
 
 
