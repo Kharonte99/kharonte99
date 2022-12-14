@@ -1,4 +1,4 @@
-# Hola buenas, soy Kharonte 👋
+# Hola soy Kharonte 👋
 
 ## ¿Quién soy? 👨‍💻
 
@@ -6,7 +6,7 @@ Me gusta la  informática y esas cosas, el GitHub será principalmente para subi
 
 Poco a poco iré complementando esto con más cosas.
 
-A hacer cosas.
+Simepre hay otro secreto.
 
 
 
