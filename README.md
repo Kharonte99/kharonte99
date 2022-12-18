@@ -2,12 +2,12 @@
 
 ## ¿Quién soy? 👨‍💻
 
-Me gusta la  informática y esas cosas, el GitHub será principalmente para subir mis proyectos de todo ámbito relacionado con la informática y compartir tanto teoría como práctica con el que la quiera. tambien subire alguna herramienta que otra que sea util.✌️
-
+Me gusta la informática y esas cosas, el GitHub será principalmente para subir mis proyectos de todo ámbito relacionado con la informática y compartir tanto teoría como práctica con el que la quiera. También subiré alguna herramienta que otra que sea útil. ✌️
 Poco a poco iré complementando esto con más cosas.
+##Ambicones
+Las principales ramas que estoy centrado es la ciberseguridad y por ello me estoy preparándome la certificación de eJPTv2.
 
-Simepre hay otro secreto.
-
+Siempre hay otro secreto.
 
 
 
