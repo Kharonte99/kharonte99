@@ -6,23 +6,11 @@ Me gusta la informática y esas cosas, el GitHub será principalmente para subir
 Poco a poco iré complementando esto con más cosas.
 
 ## Ambiciones
-Las principales ramas que estoy centrado es la ciberseguridad y por ello me estoy preparándome la certificación de eJPTv2.
-
-Siempre hay otro secreto.
+Las principales ramas que estoy centrado es la ciberseguridad(incluyendo Linux y redes) y por ello me estoy preparándome la certificación del eJPTv2 y adicionalmente para las del LPI.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+---Siempre hay otro secreto---
 
 
 
