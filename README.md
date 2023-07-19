@@ -1,5 +1,5 @@
 # Hola soy Kharonte 👋
-
+<!--
 ## ¿Quién soy? 👨‍💻
 
 Me gusta la informática y esas cosas, el GitHub será principalmente para subir mis proyectos de todo ámbito relacionado con la informática y compartir tanto teoría como práctica con el que la quiera. También subiré alguna herramienta que otra que sea útil. ✌️
