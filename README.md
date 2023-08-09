@@ -1,19 +1,18 @@
 # Hola soy Kharonte 👋
-<!--
-## ¿Quién soy? 👨‍💻
 
-Me gusta la informática y esas cosas, el GitHub será principalmente para subir mis proyectos de todo ámbito relacionado con la informática y compartir tanto teoría como práctica con el que la quiera. También subiré alguna herramienta que otra que sea útil. ✌️
+## ¿Quién soy? 👨‍💻
+Me gusta la informática y esas cosas, el GitHub será principalmente para subir mis proyectos de todo ámbito relacionado con la informática y compartir tanto teoría como práctica con el que la quiera.✌️
 Poco a poco iré complementando esto con más cosas.
 
-## Ambiciones
-Las principales ramas que estoy centrado es la ciberseguridad(incluyendo Linux y redes) y por ello me estoy preparándome la certificación del eJPTv2 y adicionalmente para las del LPI.
+### 🌱 Actualmente estoy aprendiendo ...
++ Python
+### 🔭 Proyectos en marcha ...
++ Web/Blog personal para subir proyectos que haga por mi cuenta y en clase.
++ WireGuard en Raspberry Pi
 
 
 
----Siempre hay otro secreto---
-
-
-
+> Siempre hay otro secreto 
 
 
 <!--
