@@ -10,6 +10,8 @@ Me gusta la informática y esas cosas, el GitHub será principalmente para subir
 + Web/Blog personal.(Destinado a subir tutoriales o guías)
 + WireGuard en Raspberry Pi
 
+### 📫 Contacto:
+  + kharonte9@protonmail.com
 
 
 > Siempre hay otro secreto 
