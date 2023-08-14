@@ -4,8 +4,9 @@
 Me gusta la informática y esas cosas, el GitHub será principalmente para subir mis proyectos de todo ámbito relacionado con la informática y compartir tanto teoría como práctica con el que la quiera.✌️
 
 
-### 🌱 Actualmente estoy aprendiendo ...
+### 🌱 Actualmente estoy aprendiendo/interesado ...
 + Python
++ DFIR (Forense y Respuesta ante Incientes)
 ### 🔭 Proyectos en marcha ...
 + Web/Blog personal.(Destinado a subir tutoriales o guías)
 + WireGuard en Raspberry Pi
