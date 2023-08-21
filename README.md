@@ -6,9 +6,9 @@ Me gusta la informática y esas cosas, el GitHub será principalmente para subir
 
 ### 🌱 Actualmente estoy aprendiendo/interesado ...
 + Python
-+ DFIR (Forense y Respuesta ante Incientes)
+
 ### 🔭 Proyectos en marcha ...
-+ Web/Blog personal.(Destinado a subir tutoriales o guías)
++ Web/Blog personal
 + WireGuard en Raspberry Pi
 
 ### 📫 Contacto:
