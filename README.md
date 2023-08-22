@@ -4,8 +4,10 @@
 Me gusta la informática y esas cosas, el GitHub será principalmente para subir mis proyectos de todo ámbito relacionado con la informática y compartir tanto teoría como práctica con el que la quiera.✌️
 
 
-### 🌱 Actualmente estoy aprendiendo/interesado ...
+### 🌱 Actualmente estoy aprendiendo ...
 + Python
++ Linux Essentials (LPI)
++ Hardening de servidores y DFIR
 
 ### 🔭 Proyectos en marcha ...
 + Web/Blog personal
@@ -13,6 +15,8 @@ Me gusta la informática y esas cosas, el GitHub será principalmente para subir
 
 ### 📫 Contacto:
   + kharonte9@protonmail.com
+  + [Web personal](https://kharonte9.wordpress.com/)
+  + [Linktree](https://linktr.ee/kharonte)
 
 
 > Siempre hay otro secreto 
