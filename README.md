@@ -5,13 +5,10 @@ Me gusta la informática y esas cosas, el GitHub será principalmente para subir
 
 
 ### 🌱 Actualmente estoy aprendiendo ...
-+ Python
-+ Linux Essentials (LPI)
-+ Hardening de servidores y DFIR
++ Linux
++ Cloud
++ Hardening
 
-### 🔭 Proyectos en marcha ...
-+ Web/Blog personal
-+ WireGuard en Raspberry Pi
 
 ### 📫 Contacto:
   + kharonte9@protonmail.com
@@ -35,4 +32,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+### 🔭 Proyectos en marcha ...
++ Web/Blog personal
+  
 -->
