@@ -5,9 +5,8 @@ Me gusta la informática y esas cosas, el GitHub será principalmente para subir
 
 
 ### 🌱 Actualmente estoy aprendiendo ...
-+ Linux
++ Hardening en Linux
 + Cloud
-+ Hardening
 
 
 ### 📫 Contacto:
