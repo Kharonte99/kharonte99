@@ -7,7 +7,7 @@ Me gusta la informática y esas cosas, el GitHub será principalmente para subir
 ### 🌱 Actualmente estoy aprendiendo ...
 + Hardening
 + Blue Team
-+ Programación
+
 
 ### 🔭 Proyectos en marcha ...
 + Blog personal
