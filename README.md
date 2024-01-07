@@ -16,8 +16,8 @@ Me gusta la informática y esas cosas, el GitHub será principalmente para subir
 
 ### 📫 Contacto:
   + kharonte9@protonmail.com
-  + [Web personal](https://kharonte9.wordpress.com/)
-  + [Linktree](https://linktr.ee/kharonte)
+  + [Web personal](https://kharonte99.github.io/)
+  + [Linktree](https://linktr.ee/kharonte9)
 
 
 > Siempre hay otro secreto 
