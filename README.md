@@ -1,27 +1,26 @@
-# Hola soy Kharonte 👋
+# ☠️ Hola, soy Kharonte 👋  
+El barquero de los sistemas perdidos.
 
-## ¿Quién soy? 👨‍💻
-Me gusta la informática y esas cosas, el GitHub será principalmente para subir mis proyectos de todo ámbito relacionado con la informática y compartir tanto teoría como práctica con el que la quiera.✌️
+## 👤 ¿Quién soy?
+Analista de ciberseguridad.
+Este espacio es mi cripta digital: aquí entierro código, comparto herramientas y dejo rastros útiles para quienes se atrevan a explorar.  
+Creo en compartir conocimiento, tanto técnico como práctico, para formar guardianes del sistema y no solo usuarios.
+<!--
+Un poco flipao tambien(La descripcion la hizo ChatGPT) 😂
+-->
+## 🧠 Actualmente explorando...
+- 🔐 Hardening en sistemas reales  
+- 🛡️ Blue Team: análisis, respuesta, visibilidad  
+- 🧪 Labs caseros sobre estos temas  
 
+## ⚙️ Proyectos activos
+- 📓 Preparacion de BTL1
+- 🖥️ HomeLab para pruebas defensivas y ofensivas  
 
-### 🌱 Actualmente estoy aprendiendo ...
-+ Hardening
-+ Blue Team
+## 📡 Contacto
+- 📨 kharonte9@protonmail.com  
 
-
-### 🔭 Proyectos en marcha ...
-+ Blog personal
-+ HomeLab
-  
-
-### 📫 Contacto:
-  + kharonte9@protonmail.com
-  + [Web personal](https://kharonte99.github.io/)
-  + [Linktree](https://linktr.ee/kharonte9)
-
-
-> Siempre hay otro secreto 
-
+> "Siempre hay otro secreto"
 
 <!--
 **Kharonte99/kharonte99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
